@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/Vekvi-BugHunter/xss-swager/refs/heads/main/xss/xsscookie.yaml",
+    "url": "https://raw.githubusercontent.com/Vekvi-BugHunter/xss-swager/refs/heads/main/xsscookie.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Vekvi-BugHunter/xss-swager/refs/heads/main/xss/xsscookie.yaml",
-            "name": "M4ST3R MIND"
+            "url": "https://raw.githubusercontent.com/Vekvi-BugHunter/xss-swager/refs/heads/main/xsscookie.yaml",
+            "name": "Vekvi"
         }
     ]
 }
